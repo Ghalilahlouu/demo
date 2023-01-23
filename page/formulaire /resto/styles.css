@@ -1,0 +1,39 @@
+.logo {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .restaurant-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .chef-image {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  nav {
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  body {
+    background-color:  #f37021;
+    ;
+  }
